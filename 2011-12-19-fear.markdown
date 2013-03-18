@@ -1,0 +1,116 @@
+---
+layout: post
+title: "Fear"
+date: 2011-12-19 11:47
+comments: true
+categories: programming, philosophy
+---
+
+##Fear
+
+I'm sitting in an airport right now, about to embark on a living embodiment of
+fear. 
+
+I hate flying. Perhaps it's just irrationality, or perhaps it's that burden of
+knowledge that there is a thousand-ton vehicle about to go careening down a
+finite runway towards a seemingly-infinite ocean, only to, a few hours later,
+come careening down towards another finite strip of asphalt at exceptional
+speed. It's just the physics that gets me. None of it seems at all safe -- and
+while I know that there are far fewer plane accidents than train or car
+accidents each year, it doesn't alleviate my terror at the prospect of breaking
+up at thirty-two thousand feet above our little marble.
+
+I also hate spiders, and needles, and probably more things than I have a right
+to hate.
+
+Suffice it that I am often afraid, almost always without cause. So why do I get
+on the plane? Why do I keep going? If I am terrified, why don't I just not do
+any of it?
+
+##Family
+
+So, I'm sitting here at Gate A-two-one -- that's what they keep saying, as if we
+wouldn't figure it out if they just said "A twenty-one" -- awaiting this coach
+of (what I imagine to be) death. I'm going to Sunny California, going to see my
+inlaws. As I await my inevitable demise, I quietly think to myself, "Fucking
+inlaws, if it weren't for them, I could be home. Enjoying the cold and playing
+video games." I'm burning off the rest of my vacation time for the year, so I'd
+be taking vacation in any case, but so motivated was I by that
+pretty-lady-who-feeds-me, that here I await the reaper.
+
+So I'm motivated to fly, against (perhaps) my better judgement (and
+certainly against my will), but I will perservere to make that scary-wife-lady
+happy, because it's Christmas, and while Santa Clause and Jesus Christ may be
+bullshit, my wife's happiness isn't. So how can I get through my fear? How can I
+deal with the fact that in less than three hours, I'll be hurtling through the
+upper atmosphere?
+
+##Finding Confidence
+
+When I'm coding, there are -- many times -- changes which need to be made, but
+appear to be hard. Changes that are sweeping, changes that involve large
+deletions, or philosophical changes to how the project is approached. Sometimes
+it's about using a new tool to solve an old problem. Sometimes it's about
+realizing a certain cross-cutting concern has been slicing into the codebase in
+a nonoptimal way. It's a hard change because the team might be against it, or
+maybe the team is for it, but they don't understand how the tool is "really"
+supposed to be used.
+
+Similar to flying, we are often motivated by necessity to make these changes,
+but are hesitant due to fear. We're afraid that the thing won't work, that our
+whole infrastructure will come tumbling down, that everything will generally go
+to shit and we'll get fired. Or worse, we _won't_ get fired, and will have to
+live with the shame as we pick up the tattered peices of a product. 
+
+The risk may be great, and that risk is directly proportional to the fear it
+induces, but I'm reminded of a quote from one of my favorite books:
+
+> I must not fear.
+>
+> Fear is the _mind-killer_.
+>
+> Fear is the little-death that brings total obliteration.
+>
+> I will face my fear.
+>
+> I will _permit_ it to pass over me and through me.
+>
+> When it has gone past I will turn the inner eye to see its path.
+>
+> Where the fear has gone there will be nothing.
+>
+> Only I will remain. 
+>
+>
+> -- Bene Gesserit Litany against Fear, Dune, Frank Hebert
+
+The problem of rejecting risk due to induced fear is that -- oftentimes -- that
+induced fear is phantasmal. It's _not_ going to crash and burn, it's _not_ going
+to drive the company into the ground. In fact, the opposite -- it will build the
+company up.
+
+##Make Fear Fuel
+
+I peruse, often, [Ward's Wiki](http://c2.com/cgi/wiki). Amongst the thousands of
+amazing articles, there is one which I dearly love --
+[MakeFearFuel](http://c2.com/cgi/wiki?MakeFearFuel). In it, the argument is made
+to -- rather than shirk from risk due to fear -- to embrace it for the same
+reason. If you're afraid of something, it's natural, it's okay. Fear is designed to
+protect you. However, Fear is _not_ designed to _paralyze you_. Fear is a tool
+to enable you to run faster and further, to be more aware of your actions and
+surroundings -- these latter two especially are of great use to a programmer.
+The fear from risk comes from the unknown -- the inability to see all paths.
+However, that self-same fear can be _harnessed_, and made to work _for_ you, to
+make your product better, to see further, to build something better.
+
+As the article suggests, Don't think of it as fear -- but rather -- excitement!
+You must _permit_ fear -- not 'allow' or 'be okay with', you are in control of
+fear -- to pass through you. Fear is subservient, not superior, and when you
+understand the use of fear as fuel, and moreover, when you begin to apply it to
+your life (and not just programming, but everywhere), I think you will find
+yourself more amenable to making good changes, better at mitigating undue risk,
+and better at recovering from problems when shit really does hit the fan. 
+
+For my part, I'm being called to board this black coach, to sit amongst my
+brothers and sisters before death. I will not fear, fear is the mind-killer, I
+will face my fear, and give fear the finger.
